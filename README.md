@@ -41,6 +41,10 @@ Join Domain
 ```
 Add-Computer -DomainName abc.com
 ```
+![Screenshot 2024-05-30 at 8 00 21 PM](https://github.com/Masudn101/Node1/assets/39289859/33174270-04c9-44aa-b8cf-56a31f87ee74)
+
+
+
 
 
 
